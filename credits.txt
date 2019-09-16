@@ -1,0 +1,10 @@
+Neko Atsume for the cat sprite.
+Toby Fox for the background music and collision noise.
+Puyo Pop Fever for the onion sprite.
+Zoo Tycoon 2 for the 3D model of the rhino of which I took screenshots.
+http://soundbible.com/1684-Cat-Meowing-2.html for a meowing noise somewhere.
+https://ubisafe.org/explore/transparent-bats-swarm/#gal_post_9654_transparent-bats-swarm-4.png for the bat swarm image I used to create my sprite for the bats.
+The creators and team at Love2D.
+My friend Sasha Valeria for hosting this on their website, and also general support.
+HectoCat for showing me Love2D.
+KiloBat for something or other.

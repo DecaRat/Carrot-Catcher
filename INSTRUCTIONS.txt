@@ -1,0 +1,47 @@
+---------------------------------------------------
+-----------------------PLAYING---------------------
+---------------------------------------------------
+If executing CarrotCatcher.exe is failing to start the program, executing CarrotCatcher.bat should work instead.
+
+---------------------------------------------------
+----------------------CONTROLS---------------------
+---------------------------------------------------
+WASD or ARROW KEYS to move.
+ESCAPE to close the window and game.
+Whatever you do, don't press K.
+
+---------------------------------------------------
+----------------------OPPONENTS--------------------
+---------------------------------------------------
+{1}RATS{1}
+-They are in the same carrot frenzy you are, and will steal 10 of your carrots on collision.
+-A maximum of four rats appear.
+-At first they all travel in one direction, and then half of them will begin to change.
+
+{2}RHINO{2}
+-A lone rhino walks the wastelands, uncaring of what is in their path and what is happening around them.
+-Can and will trample you if you get in their way.
+-While being trampled, the rats will take advantage of this and will now steal 50 carrots.
+
+{3}BATS{3}
+-They don't care about carrots, but they do have a love for another legume.
+-If they smell something they like, they'll attempt to chase you for it. In the mayhem that happens upon collision, you will lose 25 carrots.
+
+----------------------------------------------------
+--------------------DIFFICULTIES--------------------
+----------------------------------------------------
+Difficulty levels are based on your score [aka Total Carrots].
+[0] -- A single rat.
+[1] -- Two rats.
+[2] -- Three rats.
+[3] -- Four rats. Oh no.
+[4] -- Rhino appears. OH NO.
+[5] -- One of the rats changes direction.
+[6] -- Another of the rats changes direction, making that two.
+[7] -- Why are there onions now?
+[8] -- Even more onions now for some reason.
+
+----------------------------------------------------
+------------------------STORY-----------------------
+----------------------------------------------------
+As far as you know there isn't one. There is, but I'm not explicitly going to explain it.

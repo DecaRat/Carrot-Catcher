@@ -1,0 +1,10 @@
+v1.0.1 (Nov. 10th, 12018)
+-Due to a problem where frames spontaneously drop, the player could go out of bounds, which then causes you to be unable to move. The out of bounds part was fixed, but the random FPS drops still happen. Not sure why.
+-Previously, the carrots would fall and be seen as underneath the rhino. This is no longer the case. The rhino does not float above the carrots.
+-The version was changed from 1.0.0 to 1.0.1 after 1 day of release.
+-Sounds are now stored in memory rather than streamed. I thought this would fix the FPS drop at least a tiny bit, but it didn't.
+
+v1.0.2 (Mar. 3rd, 12019)
+-Love2D updated from 11.1 to 11.2, so we updated the dependencies.
+-Some users were experiencing issues where the program wasn't starting. In an effort to fix this, love.exe has also been provided in the zip, as well as a bat file that runs Carrot Catcher directly through love.exe.
+-The version was change from 1.0.1 to 1.0.2 after 120 days of release.
